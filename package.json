@@ -1,0 +1,23 @@
+{
+    "name": "com.yunus.dialoguesystem",
+    "version": "1.0.0",
+    "displayName": "Dialogue System",
+    "description": "Custom dialogue package with UI and character options using Ink dialogue system.",
+    "unity": "2022.3",
+    "dependencies": {
+        "com.unity.textmeshpro": "3.0.6",
+        "com.inkle.ink-unity-integration": "1.1.8"
+    },
+    "samples": [
+        {
+            "displayName": "Sample1",
+            "description": "Contains initial sample scene with dialogue system.",
+            "path": "Samples~/Sample1"
+        }
+    ],
+    "author": {
+        "name": "Yunus Emre",
+        "email": "emretopal20@gmail.com",
+        "url": "https://github.com/yunus-topal"
+    }
+}
